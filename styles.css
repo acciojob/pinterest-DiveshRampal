@@ -16,12 +16,22 @@ a{padding:10px;
 	   border-radius:10px;
 	   height:50px;
 	   width:30;
-	   justify:bottom;
+	   position:absolute;
+	  right:300px;
+	  top:150px;
 	
 }
 h1{justify-content:right;
    text-align:center;
-   
+   margin:left 50px;
+   position:abolute;
+   right:1px;
+   top:1px;}
+   p{position:absolute;
+	 right:130px;
+	 top:100px;
+	   
+   }
    
 	
 }
